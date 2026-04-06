@@ -1,29 +1,25 @@
-# Hello, I'm OLUWASEYI
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm OLUWASEYI 👋
 
-[Brief Introduction - Remove this afterwards]
+<a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bxna76aCJQhKbEZdrZCuh7A%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🎯 Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🛠️ Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | [Detection Lab](#)         |
+| Network Traffic Monitoring and Attack Detection | [Detection Lab](#)         |
+| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#)    |
+| Incident Response Planning and Execution       | [SOC Automation Lab](#)    |
+| Case Management with TheHive                  | [SOC Automation Lab](#)    |
+| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)    |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🧰 Tools
 
 ### Network
 <div>
@@ -45,16 +41,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## 📜 Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HUAWEI-FF0000?&style=for-the-badge&logo=Huawei&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Networking_Expert-333333?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CPN-0052FF?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## 🚀 Projects
+- **Detection Lab**: A purpose-built environment for testing security controls and analyzing malicious traffic.
+- **SOC Automation Project**: Streamlining incident response using SOAR platforms to reduce Mean Time to Respond (MTTR).
