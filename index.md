@@ -47,3 +47,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## 🚀 Incoming Project
 AI VULNERABILITY AND CHAT BOT 50% DONE.......
+
+## 📧 Contact Me
+
+<form action="https://formspree.io/f/https://formspree.io/f/xwvwabdo" method="POST">
+  <label>Your Email:</label>
+  <input type="email" name="email" required style="width: 100%; padding: 8px; margin-bottom: 10px;">
+  
+  <label>Message:</label>
+  <textarea name="message" required style="width: 100%; height: 100px; padding: 8px; margin-bottom: 10px;"></textarea>
+  
+  <button type="submit" style="background-color: #0078D4; color: white; padding: 10px 20px; border: none; cursor: pointer;">Send Message</button>
+</form>
